@@ -7,14 +7,6 @@ export default function App() {
       <CreateBurger
         burgerStack={[
           'Lettuce',
-          'Meat',
-          'Tomatoes',
-          'Cheese',
-          'Lettuce',
-          'Tomatoes',
-          'Pickles',
-          'Tomatoes',
-          'Lettuce',
           'Cheese',
           'Meat'
         ]}
@@ -22,3 +14,4 @@ export default function App() {
     </div>
   );
 }
+
